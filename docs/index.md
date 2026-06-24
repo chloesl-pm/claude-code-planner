@@ -1,25 +1,23 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "기획자의 Claude Code 실무 활용 A to Z"
-  text: "비개발자를 위한 AI 업무 자동화 실전 가이드"
-  tagline: My great project tagline
+  name: "기획자의 Claude Code"
+  text: "실무 활용 A to Z"
+  tagline: 비개발자를 위한 AI 업무 자동화 실전 가이드
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 들어가며 →
+      link: /prologue
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: CH.0 왜 Claude Code인가
+      link: /ch0
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 📄 문서 자동화
+    details: 회의록·기획서·스펙 문서를 Confluence에 자동 생성·수정
+  - title: 🎫 티켓 관리
+    details: Jira 티켓 생성, 조회, 상태 변경을 명령어 한 줄로 처리
+  - title: 🔧 API 검증
+    details: Swagger JSON으로 자동화 테스트 툴을 직접 구축
 ---
-
