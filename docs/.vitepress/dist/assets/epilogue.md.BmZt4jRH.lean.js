@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o,a0 as l}from"./chunks/framework.UHt1LHnn.js";const u=JSON.parse('{"title":"🎯 나오며","description":"","frontmatter":{},"headers":[],"relativePath":"epilogue.md","filePath":"epilogue.md"}'),i={name:"epilogue.md"};function r(s,e,c,n,p,_){return t(),o("div",null,[...e[0]||(e[0]=[l("",7)])])}const h=a(i,[["render",r]]);export{u as __pageData,h as default};

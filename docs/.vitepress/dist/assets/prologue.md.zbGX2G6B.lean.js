@@ -1,0 +1,1 @@
+import{_ as r,o as d,c as o,a0 as e}from"./chunks/framework.UHt1LHnn.js";const C=JSON.parse('{"title":"📖 들어가며","description":"","frontmatter":{},"headers":[],"relativePath":"prologue.md","filePath":"prologue.md"}'),a={name:"prologue.md"};function n(l,t,s,i,g,u){return d(),o("div",null,[...t[0]||(t[0]=[e("",18)])])}const h=r(a,[["render",n]]);export{C as __pageData,h as default};

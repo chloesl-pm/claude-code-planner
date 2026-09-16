@@ -1,0 +1,1 @@
+import{_ as d,o as r,c as a,a0 as e}from"./chunks/framework.UHt1LHnn.js";const u=JSON.parse('{"title":"CHAPTER 2. 반복 업무의 종말","description":"","frontmatter":{},"headers":[],"relativePath":"ch2.md","filePath":"ch2.md"}'),o={name:"ch2.md"};function h(l,t,n,s,i,c){return r(),a("div",null,[...t[0]||(t[0]=[e("",19)])])}const g=d(o,[["render",h]]);export{u as __pageData,g as default};
