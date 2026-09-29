@@ -10,16 +10,16 @@ export default {
     ],
     sidebar: [
       { text: '📖 들어가며', link: '/prologue' },
-      { text: 'CH.0 왜 Claude Code인가', link: '/ch0' },
+      { text: 'CH.0 기획자에게 Claude Code가 필요한 이유', link: '/ch0' },
       { text: 'CH.1 환경 구축', link: '/ch1' },
       { text: 'CH.2 반복 업무의 종말', link: '/ch2' },
       { text: 'CH.3 MCP Confluence 연동', link: '/ch3' },
       { text: 'CH.4 MCP Jira 연동', link: '/ch4' },
       { text: 'CH.5 MCP Figma 연동', link: '/ch5' },
-      { text: 'CH.6 사용자 가이드 작성', link: '/ch6' },
-      { text: 'CH.7 API 자동화 테스트 툴', link: '/ch7' },
-      { text: 'CH.8 경쟁사 분석 자동화', link: '/ch8' },
-      { text: 'CH.9 나만의 기획 어시스턴트', link: '/ch9' },
+      { text: 'CH.6 카카오클라우드 사용자 가이드 작성', link: '/ch6' },
+      { text: 'CH.7 하네스로 기획 검증 자동화하기', link: '/ch7' },
+      { text: 'CH.8 API 자동화 테스트 툴 구축', link: '/ch8' },
+      { text: 'CH.9 제안서 작성', link: '/ch9' },
       { text: '🎯 나오며', link: '/epilogue' }
     ],
     footer: {
